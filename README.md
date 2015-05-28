@@ -25,3 +25,4 @@ GeoJSON utilities that will make your life easier.
 * [csv2geojson](https://github.com/mapbox/csv2geojson): convert CSV to geojson
 * [tokml](https://github.com/mapbox/tokml): convert geojson to KML
 * [geojson2dsv](https://github.com/mapbox/geojson2dsv): convert geojson to csv and tsv
+* [wellknown](https://github.com/mapbox/wellknown): convert wkt to geojson
