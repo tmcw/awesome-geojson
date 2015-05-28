@@ -27,3 +27,8 @@ GeoJSON utilities that will make your life easier.
 * [geojson2dsv](https://github.com/mapbox/geojson2dsv): convert geojson to csv and tsv
 * [wellknown](https://github.com/mapbox/wellknown): convert wkt to geojson
 * [topojson](https://github.com/mbostock/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
+
+### serialization
+
+* [python-geojson](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+* [rust-geojson](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
