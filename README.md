@@ -47,6 +47,7 @@ GeoJSON utilities that will make your life easier.
 
 * [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
+* [metro-extracts](https://mapzen.com/metro-extracts/): regional OpenStreetMap data as GeoJSON
 
 ### serialization
 
