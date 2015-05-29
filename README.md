@@ -9,6 +9,7 @@ GeoJSON utilities that will make your life easier.
 * [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
 * [geojson-summary](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
 * [geojson-flatten](https://github.com/mapbox/geojson-flatten): flatten multi geometries into normal geometries
+* [geojson-normalize](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
 * [geojson-rewind](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 
 ### validation
@@ -32,3 +33,8 @@ GeoJSON utilities that will make your life easier.
 
 * [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
+
+### serialization
+
+* [python-geojson](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+* [rust-geojson](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
