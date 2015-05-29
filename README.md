@@ -19,6 +19,7 @@ GeoJSON utilities that will make your life easier.
 ### services
 
 * [geojsonio-cli](https://github.com/mapbox/geojsonio-cli): send geojson features to [geojson.io](http://geojson.io/) from your command line
+* [geojsonlint](http://geojsonlint.com/): REST interface for GeoJSON validation
 
 ### conversion
 
@@ -28,6 +29,8 @@ GeoJSON utilities that will make your life easier.
 * [geojson2dsv](https://github.com/mapbox/geojson2dsv): convert geojson to csv and tsv
 * [wellknown](https://github.com/mapbox/wellknown): convert wkt to geojson
 * [topojson](https://github.com/mbostock/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
+* [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
+  * [fiona](https://github.com/toblerity/fiona): nice python interface on top of ogr
 
 ### data
 
