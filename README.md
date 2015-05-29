@@ -27,3 +27,8 @@ GeoJSON utilities that will make your life easier.
 * [geojson2dsv](https://github.com/mapbox/geojson2dsv): convert geojson to csv and tsv
 * [wellknown](https://github.com/mapbox/wellknown): convert wkt to geojson
 * [topojson](https://github.com/mbostock/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
+
+### data
+
+* [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
+* [openflights-geojson](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
