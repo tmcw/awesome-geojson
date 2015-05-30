@@ -46,7 +46,9 @@ GeoJSON utilities that will make your life easier.
 ### data
 
 * [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
+* [world-atlas](https://github.com/mbostock/world-atlas): customizable simplified versions of natural earth data
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
+* [us-atlas](https://github.com/mbostock/us-atlas): geojson & topojson for United States featres
 * [metro-extracts](https://mapzen.com/metro-extracts/): regional OpenStreetMap data as GeoJSON
 
 ### serialization
