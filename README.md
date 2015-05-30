@@ -53,6 +53,7 @@ GeoJSON utilities that will make your life easier.
 * [whereonearth-airport](https://github.com/straup/whereonearth-airport): outlines of every airport
 * [whereonearth-building](https://github.com/straup/whereonearth-building/): building outlines
 * [whereonearth repos](https://github.com/search?q=user%3Astraup+whereonearth): other features output from GeoPlanet by Aaron Straup Cope
+* [tgn-geojson](https://github.com/straup/tgn-geojson): The Getty Thesaurus of Geographic Names (TGN) As GeoJSON.
 
 ### serialization
 
