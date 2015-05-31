@@ -41,3 +41,9 @@ GeoJSON utilities that will make your life easier.
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
 * [rust-geojson](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Tom MacWright](http://macwright.org) has waived all copyright and related or neighboring rights to this work.
