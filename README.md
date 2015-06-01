@@ -26,6 +26,7 @@ GeoJSON utilities that will make your life easier.
 * [geojsonio-cli](https://github.com/mapbox/geojsonio-cli): send geojson features to [geojson.io](http://geojson.io/) from your command line
 * [geojsonio-extension](https://github.com/mapbox/geojsonio-extension): chrome extension for editing github files in geojson.io
 * [geojsonlint](http://geojsonlint.com/): REST interface for GeoJSON validation
+* [mapshaper](http://mapshaper.org/): Simple interface for simplification and conversion of GeoJSON and TopoJSON
 
 ### conversion
 
