@@ -15,6 +15,7 @@ GeoJSON utilities that will make your life easier.
 * [geojson-rewind](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 * [geojson-summary](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
 * [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
+* [geojson-join](https://github.com/tmcw/geojson-join): join geojson against json, dbf, and csv files
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 
 ### validation
