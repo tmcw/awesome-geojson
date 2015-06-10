@@ -58,6 +58,7 @@ GeoJSON utilities that will make your life easier.
 * [whereonearth repos](https://github.com/search?q=user%3Astraup+whereonearth): other features output from GeoPlanet by Aaron Straup Cope
 * [tgn-geojson](https://github.com/straup/tgn-geojson): The Getty Thesaurus of Geographic Names (TGN) As GeoJSON.
 * [strava-to-geojsonio](https://github.com/taketime/strava-to-geojsonio): export runs & rides from Strava to GeoJSON
+* [strava-geojson](https://github.com/tmcw/strava-geojson): export _all_ strava data to geojson, in node & [on the web](http://www.macwright.org/strava-geojson/)
 
 ### serialization
 
