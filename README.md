@@ -31,6 +31,7 @@ GeoJSON utilities that will make your life easier.
 * [topojson](https://github.com/mbostock/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
   * [fiona](https://github.com/toblerity/fiona): nice python interface on top of ogr
+* [minjur](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
 
 ### data
 
