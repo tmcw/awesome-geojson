@@ -28,6 +28,7 @@ GeoJSON utilities that will make your life easier.
 * [geojsonio-extension](https://github.com/mapbox/geojsonio-extension): chrome extension for editing github files in geojson.io
 * [geojsonlint](http://geojsonlint.com/): REST interface for GeoJSON validation
 * [mapshaper](http://mapshaper.org/): Simple interface for simplification and conversion of GeoJSON and TopoJSON
+* [koop](https://github.com/Esri/koop): Server that recuts Esri & GitHub services as GeoJSON endpoints
 
 ### conversion
 
@@ -46,6 +47,7 @@ GeoJSON utilities that will make your life easier.
 * [vt-geojson](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
 * [wellknown](https://github.com/mapbox/wellknown): convert wkt to geojson
 * [osmtogeojson](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
+* [esri2open](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 
 ### data
 
