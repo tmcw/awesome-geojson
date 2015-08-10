@@ -17,6 +17,7 @@ GeoJSON utilities that will make your life easier.
 * [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
 * [geojson-join](https://github.com/tmcw/geojson-join): join geojson against json, dbf, and csv files
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
+* [turf](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
 
 ### validation
 
