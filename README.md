@@ -56,6 +56,7 @@ GeoJSON utilities that will make your life easier.
 * [wellknown](https://github.com/mapbox/wellknown): convert wkt to geojson
 * [osmtogeojson](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
 * [esri2open](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
+* [gtfs2geojson](https://github.com/tmcw/gtfs2geojson): convert GTFS transit data to GeoJSON
 
 ### data
 
