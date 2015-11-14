@@ -36,7 +36,7 @@ GeoJSON utilities that will make your life easier.
 * [geojsonio-extension](https://github.com/mapbox/geojsonio-extension): chrome extension for editing github files in geojson.io
 * [geojsonlint](http://geojsonlint.com/): REST interface for GeoJSON validation
 * [mapshaper](http://mapshaper.org/): Simple interface for simplification and conversion of GeoJSON and TopoJSON
-* [koop](https://github.com/Esri/koop): Server that recuts Esri & GitHub services as GeoJSON endpoints
+* [koop](https://github.com/koopjs/koop): Server that recuts Esri & GitHub services as GeoJSON endpoints
 
 ### conversion
 
@@ -64,7 +64,7 @@ GeoJSON utilities that will make your life easier.
 * [world-atlas](https://github.com/mbostock/world-atlas): customizable simplified versions of natural earth data
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
 * [us-atlas](https://github.com/mbostock/us-atlas): geojson & topojson for United States features
-* [metro-extracts](https://mapzen.com/metro-extracts/): regional OpenStreetMap data as GeoJSON
+* [metro-extracts](https://mapzen.com/data/metro-extracts): regional OpenStreetMap data as GeoJSON
 * [whereonearth-airport](https://github.com/straup/whereonearth-airport): outlines of every airport
 * [whereonearth-building](https://github.com/straup/whereonearth-building/): building outlines
 * [whereonearth repos](https://github.com/search?q=user%3Astraup+whereonearth): other features output from GeoPlanet by Aaron Straup Cope
@@ -81,4 +81,4 @@ GeoJSON utilities that will make your life easier.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Tom MacWright](http://macwright.org) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Tom MacWright](http://www.macwright.org) has waived all copyright and related or neighboring rights to this work.
