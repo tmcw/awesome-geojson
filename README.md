@@ -36,7 +36,7 @@ GeoJSON utilities that will make your life easier.
 * [geojsonio-extension](https://github.com/mapbox/geojsonio-extension): chrome extension for editing github files in geojson.io
 * [geojsonlint](http://geojsonlint.com/): REST interface for GeoJSON validation
 * [mapshaper](http://mapshaper.org/): Simple interface for simplification and conversion of GeoJSON and TopoJSON
-* [koop](https://github.com/koopjs/koop): Server that recuts Esri & GitHub services as GeoJSON endpoints
+* [koop](https://koopjs.github.io): Server with plugins that recast Esri, GitHub, Socrata and other services as GeoJSON endpoints
 
 ### conversion
 
