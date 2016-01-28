@@ -76,6 +76,7 @@ GeoJSON utilities that will make your life easier.
 ### serialization
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+* [rgeo-geojson](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 * [rust-geojson](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
 ## License
