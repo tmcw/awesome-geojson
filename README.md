@@ -62,6 +62,7 @@ GeoJSON utilities that will make your life easier.
 ### data
 
 * [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
+* [geojson.xyz](http://geojson.xyz/): natural earth data in web-friendly sizes with hotlinking
 * [world-atlas](https://github.com/mbostock/world-atlas): customizable simplified versions of natural earth data
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
 * [us-atlas](https://github.com/mbostock/us-atlas): geojson & topojson for United States features
