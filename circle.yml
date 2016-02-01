@@ -2,7 +2,8 @@ machine:
   ruby:
     version: rbx-2.2.6
 dependencies:
-  - gem install awesome_bot
+  override:
+    - gem install awesome_bot
 test:
   override:
     - awesome_bot README.md
