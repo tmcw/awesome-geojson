@@ -19,12 +19,13 @@ GeoJSON utilities that will make your life easier.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 * [turf](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
 
-### editors
+### editors & viewers
 
 * [geojson.io](http://geojson.io/): web-based editor, supports many filetype imports & exports, operations, sharing via GitHub
 * [umap](http://umap.openstreetmap.fr/en/): web-based editor, supports sharing on-site
 * [simple geojson editor](https://google-developers.appspot.com/maps/documentation/utils/geojson/): geojson editor on a google map, by google
 * [mapstarter](http://mapstarter.com/): helps generate svg, images, and code from GeoJSON
+* [gjv](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
 
 ### validation
 
