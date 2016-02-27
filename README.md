@@ -18,6 +18,7 @@ GeoJSON utilities that will make your life easier.
 * [geojson-join](https://github.com/tmcw/geojson-join): join geojson against json, dbf, and csv files
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 * [turf](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
+* [winnow](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
 
 ### editors & viewers
 
