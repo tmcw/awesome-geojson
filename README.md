@@ -83,6 +83,11 @@ GeoJSON utilities that will make your life easier.
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 * [rust-geojson](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
+### resources
+
+* [GeoJSON.org](http://geojson.org/): the specification, defining all the rules for GeoJSON structures
+* [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html): a review of the concepts behind the specification in a more narrative format.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
