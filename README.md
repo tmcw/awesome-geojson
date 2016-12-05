@@ -6,13 +6,13 @@ GeoJSON utilities that will make your life easier.
 
 * [geojson-coords](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
 * [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
-* [geojson-flatten](https://github.com/mapbox/geojson-flatten): flatten multi geometries into normal geometries
+* [geojson-flatten](https://github.com/tmcw/geojson-flatten): flatten multi geometries into normal geometries
 * [geojson-multiply](https://github.com/haoliangyu/geojson-multiply):  merge normal geojson features into one multi geometry type feature
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
 * [geojson-normalize](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
 * [geojson-pick](https://www.npmjs.com/package/geojson-pick): remove all but specified properties from features in a geojson featurecollection
-* [geojson-random](https://github.com/mapbox/geojson-random): generate random geojson points, lines, and polygons
+* [geojson-random](https://github.com/tmcw/geojson-random): generate random geojson points, lines, and polygons
 * [geojson-rewind](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 * [geojson-summary](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
 * [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
@@ -47,7 +47,7 @@ GeoJSON utilities that will make your life easier.
 * [csv2geojson](https://github.com/mapbox/csv2geojson): convert CSV to geojson
 * [geojson-mapnikify](https://github.com/mapbox/geojson-mapnikify): Transform GeoJSON objects into Mapnik XML stylesheets with embedded GeoJSON data and simplestyle-spec-derived styles.
 * [geojson-vt](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
-* [geojson2dsv](https://github.com/mapbox/geojson2dsv): convert geojson to csv and tsv
+* [geojson2dsv](https://github.com/tmcw/geojson2dsv): convert geojson to csv and tsv
 * [geojson2rtree](https://github.com/maxogden/geojson2rtree): generate a static rtree (using terraformer) from a set of geojson features
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
   * [fiona](https://github.com/toblerity/fiona): nice python interface on top of ogr
@@ -55,7 +55,7 @@ GeoJSON utilities that will make your life easier.
 * [shp2json](https://github.com/substack/shp2json): convert shapefile zip archives to streaming GeoJSON
 * [togeojson](https://github.com/mapbox/togeojson): convert gpx & kml to geojson
 * [tokml](https://github.com/mapbox/tokml): convert geojson to KML
-* [topojson](https://github.com/mbostock/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
+* [topojson](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
 * [vt-geojson](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
 * [wellknown](https://github.com/mapbox/wellknown): convert wkt to geojson
 * [osmtogeojson](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
@@ -67,9 +67,9 @@ GeoJSON utilities that will make your life easier.
 
 * [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
 * [geojson.xyz](http://geojson.xyz/): natural earth data in web-friendly sizes with hotlinking
-* [world-atlas](https://github.com/mbostock/world-atlas): customizable simplified versions of natural earth data
+* [world-atlas](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
-* [us-atlas](https://github.com/mbostock/us-atlas): geojson & topojson for United States features
+* [us-atlas](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 * [metro-extracts](https://mapzen.com/data/metro-extracts/): regional OpenStreetMap data as GeoJSON
 * [whereonearth-airport](https://github.com/straup/whereonearth-airport): outlines of every airport
 * [whereonearth-building](https://github.com/straup/whereonearth-building/): building outlines
@@ -91,6 +91,6 @@ GeoJSON utilities that will make your life easier.
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/ )
 
 To the extent possible under law, [Tom MacWright](http://www.macwright.org) has waived all copyright and related or neighboring rights to this work.
