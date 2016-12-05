@@ -28,6 +28,7 @@ GeoJSON utilities that will make your life easier.
 * [simple geojson editor](https://google-developers.appspot.com/maps/documentation/utils/geojson/): geojson editor on a google map, by google
 * [mapstarter](http://mapstarter.com/): helps generate svg, images, and code from GeoJSON
 * [gjv](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
+* [GeoJSON editor](https://tomscholz.github.io/geojson-editor/): a modified version of Google's simple geojson editor
 
 ### validation
 
