@@ -29,6 +29,7 @@ GeoJSON utilities that will make your life easier.
 * [mapstarter](http://mapstarter.com/): helps generate svg, images, and code from GeoJSON
 * [gjv](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
 * [GeoJSON editor](https://tomscholz.github.io/geojson-editor/): a modified version of Google's simple geojson editor
+* [geojson2image](https://github.com/brycejohnston/geojson2image): library for generating images from GeoJSON
 
 ### validation
 
