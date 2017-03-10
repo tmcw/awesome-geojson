@@ -65,6 +65,7 @@ GeoJSON utilities that will make your life easier.
 * [gtfs2geojson](https://github.com/tmcw/gtfs2geojson): convert GTFS transit data to GeoJSON
 * [geoxform](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming csv, shapefile or kml, etc.
 * [supercluster](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
+* [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3): Converts polygon winding order between rfc7946 and [d3 compatible](https://github.com/d3/d3-geo#d3-geo) conventions.
 
 ### data
 
