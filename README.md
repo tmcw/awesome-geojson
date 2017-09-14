@@ -4,6 +4,7 @@ GeoJSON utilities that will make your life easier.
 
 ### operations
 
+* [CoGran](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
 * [geojson-coords](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
 * [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
 * [geojson-flatten](https://github.com/tmcw/geojson-flatten): flatten multi geometries into normal geometries
