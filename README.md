@@ -33,6 +33,7 @@ GeoJSON utilities that will make your life easier.
 * [GeoJSON editor](https://tomscholz.github.io/geojson-editor/): a modified version of Google's simple geojson editor
 * [geojson2image](https://github.com/brycejohnston/geojson2image): library for generating images from GeoJSON
 * [dropchop](http://dropchop.io/): browser-based GIS based on Turf.js
+* [OpenMapTiles](https://openmaptiles.org/): vector tiles from GeoJSON
 
 ### validation
 
