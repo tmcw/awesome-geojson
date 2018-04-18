@@ -67,6 +67,7 @@ GeoJSON utilities that will make your life easier.
 * [vt-geojson](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
 * [wellknown](https://github.com/mapbox/wellknown): convert wkt to geojson
 * [osmtogeojson](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
+* [osm2geojson](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
 * [esri2open](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 * [gtfs2geojson](https://github.com/tmcw/gtfs2geojson): convert GTFS transit data to GeoJSON
 * [geoxform](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming csv, shapefile or kml, etc.
