@@ -22,6 +22,9 @@ GeoJSON utilities that will make your life easier.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 * [turf](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
 * [winnow](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
+* [geojson-id-streaming](https://github.com/andrewharvey/geojson-id-streaming): Add a unique id to each Feature
+* [geojson-mesh](https://github.com/andrewharvey/geojson-mesh): extract shared borders of Polygons in a GeoJSON
+* [geojson-polygon-labels](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
 
 ### editors & viewers
 
@@ -64,6 +67,7 @@ GeoJSON utilities that will make your life easier.
 * [vt-geojson](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
 * [wellknown](https://github.com/mapbox/wellknown): convert wkt to geojson
 * [osmtogeojson](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
+* [osm2geojson](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
 * [esri2open](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 * [gtfs2geojson](https://github.com/tmcw/gtfs2geojson): convert GTFS transit data to GeoJSON
 * [geoxform](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming csv, shapefile or kml, etc.
@@ -71,6 +75,13 @@ GeoJSON utilities that will make your life easier.
 * [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3): Converts polygon winding order between rfc7946 and [d3 compatible](https://github.com/d3/d3-geo#d3-geo) conventions.
 * [geojson-svgify](https://github.com/juliuste/geojson-svgify): Convert GeoJSON geometry paths to SVG polyline elements.
 * [geojson-to-svg-cli](https://github.com/derhuerst/geojson-to-svg-cli): Command line tool to convert GeoJSON to SVG.
+* [svg-to-geojson](https://github.com/mapbox/svg-to-geojson): Drag and drop SVG on the map and it returns GeoJSON back to you.
+* [geojsontools](https://github.com/micolous/geojsontools): Python tools for manipulating GeoJSON files
+* [geojsontoosm](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
+* [geojson2osm](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
+* [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
+* [geojson2osm-es6](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
+
 
 ### data
 
