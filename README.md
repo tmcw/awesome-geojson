@@ -67,7 +67,7 @@ GeoJSON utilities that will make your life easier.
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
   * [fiona](https://github.com/toblerity/fiona): nice python interface on top of ogr
 * [shp2json](https://github.com/substack/shp2json): convert shapefile zip archives to streaming GeoJSON
-* [togeojson](https://github.com/mapbox/togeojson): convert GPX & KML to geojson
+* [togeojson](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
 * [tokml](https://github.com/mapbox/tokml): convert GeoJSON to KML
 * [topojson](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
 * [wellknown](https://github.com/mapbox/wellknown): convert WKT to GeoJSON
