@@ -120,7 +120,7 @@ GeoJSON utilities that will make your life easier.
 ### resources
 
 * [RFC 7946 – The GeoJSON Format](https://tools.ietf.org/html/rfc7946): the current GeoJSON standard by IETF
-* [geojson.win](http://geojson.win]: More readable version of the spec.
+* [geojson.win](http://geojson.win): More readable version of the spec.
 * [GeoJSON.org](http://geojson.org/): the first specification, defining all the rules for GeoJSON structures
 * [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html): a review of the concepts behind the specification in a more narrative format.
 
