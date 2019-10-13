@@ -85,6 +85,7 @@ GeoJSON utilities that will make your life easier.
 * **OpenStreetMap**
   * [osmtogeojson](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
   * [osm2geojson](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
+  * [osm2geojson](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
   * [minjur](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
   * [geojsontoosm](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
   * [geojson2osm](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
