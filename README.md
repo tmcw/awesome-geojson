@@ -124,6 +124,8 @@ GeoJSON utilities that will make your life easier.
 * [geojson.win](http://geojson.win): More readable version of the spec.
 * [GeoJSON.org](http://geojson.org/): the first specification, defining all the rules for GeoJSON structures
 * [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html): a review of the concepts behind the specification in a more narrative format.
+* [Great Guide to Generating Good GeoJSON](https://developer.here.com/blog/great-guide-to-generating-good-geojson): A look at dynamically generating GeoJSON
+* [Integreating GeoJSON into your Static Sites](https://developer.here.com/blog/integrating-geojson-in-your-static-sites): A look at using GeoJSON files with the JAMStack
 
 ## License
 
