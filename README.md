@@ -110,6 +110,7 @@ GeoJSON utilities that will make your life easier.
 * [strava-to-geojsonio](https://github.com/taketime/strava-to-geojsonio): export runs & rides from Strava to GeoJSON
 * [strava-geojson](https://github.com/tmcw/strava-geojson): export _all_ strava data to geojson, in node & [on the web](http://www.macwright.org/strava-geojson/)
 * [gimme OSM](http://ustroetz.github.io/gimmeOSM/): Fetch geojson file by openstreetmap id
+* [country-levels](https://github.com/hyperknot/country-levels-export) Full planet GeoJSON extracts, based on ISO and FIPS codes.
 
 ### serialization
 
