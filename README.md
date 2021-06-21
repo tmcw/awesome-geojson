@@ -118,7 +118,7 @@ GeoJSON utilities that will make your life easier.
 * [rust-geojson](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [mapbox-java](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson](https://github.com/google/gson))
-* [geojson-serializer](https://github.com/dtap-gmbh/geojson-serializer): serialize Java with annotations as GeoJSON
+* [geojson-serializer](https://github.com/ancore/geojson-serializer): serialize Java with annotations as GeoJSON
 
 ### resources
 
