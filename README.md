@@ -45,6 +45,8 @@ GeoJSON utilities that will make your life easier.
 
 * [geojsonhint](https://github.com/mapbox/geojsonhint): find errors in your geojson files
 * [geojson-validation](https://www.npmjs.com/package/geojson-validation): many validation functions, plus simple gjv command line tool
+* [gjf](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
+
 
 ### services
 
