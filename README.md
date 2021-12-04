@@ -94,6 +94,7 @@ GeoJSON utilities that will make your life easier.
   * [geojson2osm](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
   * [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
   * [geojson2osm-es6](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
+  * [query-overpass](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson](https://github.com/tyrasd/osmtogeojson)
 
 
 ### data
