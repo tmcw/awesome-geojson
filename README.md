@@ -80,6 +80,7 @@ GeoJSON utilities that will make your life easier.
 * [geoxform](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming CSV, Shapefile or KML, etc.
 * [supercluster](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
 * **SVG**
+  * [geojson2svg](https://github.com/gagan-bansal/geojson2svg): Converts GeoJSON to SVG string given SVG view port size and maps extent.
   * [geojson-svgify](https://github.com/juliuste/geojson-svgify): Convert GeoJSON geometry paths to SVG polyline elements.
   * [geojson-to-svg-cli](https://github.com/derhuerst/geojson-to-svg-cli): Command line tool to convert GeoJSON to SVG.
   * [svg-to-geojson](https://github.com/mapbox/svg-to-geojson): Drag and drop SVG on the map and it returns GeoJSON back to you.
