@@ -21,7 +21,8 @@ GeoJSON utilities that will make your life easier.
 * [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
 * [geojson-join](https://github.com/tmcw/geojson-join): join geojson against json, dbf, and csv files
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
-* [turf](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
+* [turf](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
+* [turf_dart](https://github.com/dartclub/turf_dart): a turf.js port for Dart and Flutter
 * [de9im](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
 * [winnow](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
 * [geojson-id-streaming](https://github.com/andrewharvey/geojson-id-streaming): Add a unique id to each Feature
