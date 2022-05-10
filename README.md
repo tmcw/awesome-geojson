@@ -89,7 +89,6 @@ GeoJSON utilities that will make your life easier.
   * [svg-to-geojson](https://github.com/mapbox/svg-to-geojson): Drag and drop SVG on the map and it returns GeoJSON back to you.
 * [geojson2ndjson](https://www.npmjs.com/package/geojson2ndjson): convert GeoJSON to/from newline-delimited GeoJSON
 * [geobuf](https://www.npmjs.com/package/geobuf/v/0.2.1): convert GeoJSON to/from GeoBuf
-
 * **OpenStreetMap**
   * [osmtogeojson](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
   * [osm2geojson](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
