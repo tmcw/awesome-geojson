@@ -2,6 +2,8 @@
 
 GeoJSON utilities that will make your life easier.
 
+<a href='https://www.placemark.io/'><i><img src='.github/placemark.png' width='16' alt='Placemark' height='16' /> Sponsored by Placemark, a collaborative editor for maps with great support for GeoJSON</i></a>
+
 ### operations
 
 * [CoGran](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
