@@ -119,6 +119,7 @@ GeoJSON utilities that will make your life easier.
 * [gimme OSM](http://ustroetz.github.io/gimmeOSM/): Fetch geojson file by openstreetmap id
 * [country-levels](https://github.com/hyperknot/country-levels-export) Full planet GeoJSON extracts, based on ISO and FIPS codes.
 * [historical-basemaps](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
+* [99boundaries](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
 
 ### serialization
 
