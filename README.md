@@ -51,7 +51,7 @@ GeoJSON utilities that will make your life easier.
 * [check-geojson](https://github.com/placemark/check-geojson): alternative to geojsonhint
 * [geojson-validation](https://www.npmjs.com/package/geojson-validation): many validation functions, plus simple gjv command line tool
 * [gjf](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
-
+* [Jest-GeoJSON](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
 
 ### services
 
