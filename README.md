@@ -44,6 +44,7 @@ GeoJSON utilities that will make your life easier.
 * [geojson2image](https://github.com/brycejohnston/geojson2image): library for generating images from GeoJSON
 * [dropchop](http://dropchop.io/): browser-based GIS based on Turf.js
 * [Web GIS](https://drewweth.github.io/geodebugger): tools to view, inspect, and manipulate geospatial data
+* [img2geojson](https://caseymm.github.io/img2geojson/): digitize images by overlaying on a web map and drawing
 
 ### validation
 
