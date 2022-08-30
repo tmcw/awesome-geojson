@@ -1,6 +1,6 @@
 machine:
   ruby:
-    version: rbx-2.2.6
+    version: rbx-3.1.2
 dependencies:
   override:
     - gem install awesome_bot
