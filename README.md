@@ -79,6 +79,7 @@ GeoJSON utilities that will make your life easier.
 * [tokml](https://github.com/mapbox/tokml): convert GeoJSON to KML
 * [topojson](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
 * [wellknown](https://github.com/mapbox/wellknown): convert WKT to GeoJSON
+* [betterknown](https://github.com/placemark/betterknown): convert WKT to GeoJSON (successor to wellknown)
 * [esri2open](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 * [gtfs2geojson](https://github.com/tmcw/gtfs2geojson): convert GTFS transit data to GeoJSON
 * [geoxform](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming CSV, Shapefile or KML, etc.
