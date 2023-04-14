@@ -123,7 +123,7 @@ GeoJSON utilities that will make your life easier.
 * [country-levels](https://github.com/hyperknot/country-levels-export) Full planet GeoJSON extracts, based on ISO and FIPS codes.
 * [historical-basemaps](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 * [99boundaries](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
-* [france-geojson](https://github.com/gregoiredavid/france-geojson)
+* [france-geojson](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 
 ### serialization
 
