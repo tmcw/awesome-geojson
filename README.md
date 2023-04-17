@@ -102,6 +102,8 @@ GeoJSON utilities that will make your life easier.
   * [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
   * [geojson2osm-es6](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
   * [query-overpass](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson](https://github.com/tyrasd/osmtogeojson)
+* [topojson for Python](https://github.com/mattijn/topojson): Topojson is a library that is capable of creating a topojson encoded format of merely any spatial object in Python.
+* [geomet](https://github.com/geomet/geomet): Pure Python conversion library for common geospatial data formats
 
 
 ### data
