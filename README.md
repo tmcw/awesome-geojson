@@ -63,6 +63,7 @@ GeoJSON utilities that will make your life easier.
 * [mapshaper](http://mapshaper.org/): Simple interface for simplification and conversion of GeoJSON and TopoJSON
 * [koop](https://koopjs.github.io): Server with plugins that recast Esri, GitHub, Socrata and other services as GeoJSON endpoints
 * [featureserver](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
+* [geojson minify](https://open-innovations.github.io/geojson-minify/): Minifier (compressor) to reduce file sizes
 
 ### conversion
 
