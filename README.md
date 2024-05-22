@@ -46,6 +46,7 @@ GeoJSON utilities that will make your life easier.
 * [dropchop](http://dropchop.io/): browser-based GIS based on Turf.js
 * [Web GIS](https://drewweth.github.io/geodebugger): tools to view, inspect, and manipulate geospatial data
 * [img2geojson](https://caseymm.github.io/img2geojson/): digitize images by overlaying on a web map and drawing
+* [point_ed](https://zverik.github.io/point_ed/): click on map to add points, download those as GeoJSON file
 
 ### validation
 
