@@ -38,6 +38,7 @@ GeoJSON utilities that will make your life easier.
 
 ### editors & viewers
 
+* [play.placemark.io](https://play.placemark.io/): web-based editor, supports many filetype imports & exports, operations
 * [geojson.io](http://geojson.io/): web-based editor, supports many filetype imports & exports, operations, sharing via GitHub
 * [umap](http://umap.openstreetmap.fr/en/): web-based editor, supports sharing on-site
 * [geojson.tools](http://geojson.tools/): web-based editor from HERE XYZ
