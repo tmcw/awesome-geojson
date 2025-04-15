@@ -60,6 +60,7 @@ GeoJSON utilities that will make your life easier.
 * [gjf](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
 * [Jest-GeoJSON](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
 * [antimeridian](https://github.com/gadomski/antimeridian): Fix GeoJSON polygons that cross the antimeridian (Python package)
+* [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic): [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
 
 ### services
 
