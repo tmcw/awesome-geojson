@@ -41,6 +41,7 @@ GeoJSON utilities that will make your life easier.
 * [play.placemark.io](https://play.placemark.io/): web-based editor, supports many filetype imports & exports, operations
 * [geojson.io](http://geojson.io/): web-based editor, supports many filetype imports & exports, operations, sharing via GitHub
 * [umap](http://umap.openstreetmap.fr/en/): web-based editor, supports sharing on-site
+* [geojson formatter](https://formatjsononline.com/geojson-formatter): Validate & Analyze Geographic Data Online
 * [geojson.tools](http://geojson.tools/): web-based editor from HERE XYZ
 * [mapstarter](http://mapstarter.com/): helps generate svg, images, and code from GeoJSON
 * [gjv](https://github.com/anandthakker/gjv): electron app enables viewing GeoJSON locally and hack on it with turf; works offline
