@@ -73,6 +73,7 @@ GeoJSON utilities that will make your life easier.
 * [koop](https://koopjs.github.io): Server with plugins that recast Esri, GitHub, Socrata and other services as GeoJSON endpoints
 * [featureserver](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
 * [geojson minify](https://open-innovations.github.io/geojson-minify/): Minifier (compressor) to reduce file sizes
+* [MapAtlas](https://mapatlas.eu): REST API for geocoding, routing, isochrones, and map matching with GeoJSON output
 
 ### conversion
 
