@@ -137,6 +137,7 @@ GeoJSON utilities that will make your life easier.
 * [99boundaries](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
 * [france-geojson](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 * [zg3d](https://data.zagreb.hr/dataset/zg3d-2022-3d-model-gz): 3D models of existing buildings in the City of Zagreb, Croatia in GeoJSON (CSV and Excel also available).
+* [castles of the world](https://thecastlemap.com/data/): 2,400 castles, fortresses and palaces with coordinates, type, country and founding century — CC0, generated from Wikidata
 
 ### serialization
 
