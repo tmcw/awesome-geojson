@@ -134,6 +134,7 @@ GeoJSON utilities that will make your life easier.
 * [gimme OSM](http://ustroetz.github.io/gimmeOSM/): Fetch geojson file by openstreetmap id
 * [country-levels](https://github.com/hyperknot/country-levels-export) Full planet GeoJSON extracts, based on ISO and FIPS codes.
 * [historical-basemaps](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
+* [AtlasPI](https://atlaspi.it): REST API and MCP server serving GeoJSON boundaries for 1,000+ historical polities (4500 BCE-today), with events, succession chains, cited sources and per-record confidence scores.
 * [99boundaries](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
 * [france-geojson](https://github.com/gregoiredavid/france-geojson): Outlines of regions, departments, arrondissements, cantons and communes of France (mainland and overseas departments) in GeoJSON format
 * [zg3d](https://data.zagreb.hr/dataset/zg3d-2022-3d-model-gz): 3D models of existing buildings in the City of Zagreb, Croatia in GeoJSON (CSV and Excel also available).
