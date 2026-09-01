@@ -62,6 +62,7 @@ GeoJSON utilities that will make your life easier.
 * [Jest-GeoJSON](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
 * [antimeridian](https://github.com/gadomski/antimeridian): Fix GeoJSON polygons that cross the antimeridian (Python package)
 * [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic): [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
+* [eudr-geojson-fixtures](https://github.com/vancebw/eudr-geojson-fixtures): test fixtures for EUDR geolocation data: valid plot examples plus common failure modes like axis swaps and self-intersecting rings
 
 ### services
 
