@@ -52,6 +52,7 @@ GeoJSON utilities that will make your life easier.
 * [geojson.io-for-vscode](https://marketplace.visualstudio.com/items?itemName=swallow.geojson-io-for-vscode): create, edit, and preview GeoJSON data in VSCode, just like [geojson.io](http://geojson.io/)
 * [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab): An interactive sandbox to tune vector tiles
 * [MapDraw](https://www.mapdraw.net/): web-based editor, imports & exports GeoJSON, GPX & KML, routing & elevation profiles, sharing via URL
+* [Mapforge](https://mapforge.org): web-based editor, imports & exports GeoJSON, GPX & KML, real-time sharing 
 
 ### validation
 
