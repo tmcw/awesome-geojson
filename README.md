@@ -53,6 +53,7 @@ GeoJSON utilities that will make your life easier.
 * [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab): An interactive sandbox to tune vector tiles
 * [MapDraw](https://www.mapdraw.net/): web-based editor, imports & exports GeoJSON, GPX & KML, routing & elevation profiles, sharing via URL
 * [Mapforge](https://mapforge.org): web-based editor, imports & exports GeoJSON, GPX & KML, real-time sharing 
+* [GeoJSON Viewer & Validator](https://9revolution9.com/tools/geo/geojson-viewer): web-based viewer, checks the declared bbox against the data, ring winding, coordinate ranges and swapped lat/lng, runs entirely in the browser
 
 ### validation
 
