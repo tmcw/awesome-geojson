@@ -65,6 +65,7 @@ GeoJSON utilities that will make your life easier.
 * [antimeridian](https://github.com/gadomski/antimeridian): Fix GeoJSON polygons that cross the antimeridian (Python package)
 * [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic): [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
 * [eudr-geojson-fixtures](https://github.com/vancebw/eudr-geojson-fixtures): test fixtures for EUDR geolocation data: valid plot examples plus common failure modes like axis swaps and self-intersecting rings
+* [Perennova EUDR checker](https://perennova.eu/en/eudr/) - Checks and fixes plot geolocation files (GeoJSON, KML, CSV) against the EU Deforestation Regulation Information System rules (closed rings, self-intersections, holes, WGS 84, 6 decimals) in the browser, nothing uploaded; free for one file.
 
 ### services
 
